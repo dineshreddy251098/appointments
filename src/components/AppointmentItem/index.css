@@ -1,0 +1,24 @@
+.appointment-container {
+  margin: 20px 25px 20px 25px;
+  padding: 22px;
+  border: 1px solid #9897f0;
+  border-radius: 12px;
+  list-style-type: none;
+}
+.title-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+.title {
+  font-size: 22px;
+  font-weight: 600;
+  font-family: 'roboto';
+  color: #171f46;
+  margin: 0px;
+}
+.star-btn {
+  border: none;
+  outline: none;
+  background-color: transparent;
+}
